@@ -4,4 +4,4 @@ some personal projects that i'm doing in the middle of my Lua learning journey, 
 
 ## 1 - Pong project
 
-[uses Love2D link to download:](tps://love2d.org)
+[Pong uses Love2D link to download:](tps://love2d.org)
