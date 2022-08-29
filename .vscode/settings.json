@@ -6,5 +6,8 @@
     "Lua.workspace.checkThirdParty": false,
     "Lua.diagnostics.disable": [
         "lowercase-global"
+    ],
+    "Lua.diagnostics.globals": [
+        "class_commons"
     ]
 }
